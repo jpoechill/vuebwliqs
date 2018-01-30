@@ -1,0 +1,17 @@
+{
+  "name": "vuebwliqs",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "pogithub <poamrong@rith.com>",
+  "products": [
+    {
+      "name": "^2.5.2",
+      "description": "",
+      "img": "^3.0.1"
+    },
+    {
+      "vue": "^2.5.2",
+      "vue-router": "^3.0.1"
+    }
+  ]
+}
